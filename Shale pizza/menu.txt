@@ -1,0 +1,26 @@
+Appetizers
+Feeds 7-10 People
+
+Mozzarella Sticks
+40.00
+Buffalo Wings
+55.00
+Fried Calamari
+55.00
+Chicken Tenders
+45.00
+Crab Cakes
+55.00
+Jalapeno Poppers
+45.00
+Tex-Mex Eggrolls
+45.00
+Salads
+Tossed Salad
+20.00
+Greek Salad
+35.00
+Antipasto Salad
+40.00
+Caesar Salad
+25.00
